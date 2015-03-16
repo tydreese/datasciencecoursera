@@ -1,3 +1,3 @@
 # datasciencecoursera
-# Tyler Reese
-# 
+ Tyler Reese
+ 
